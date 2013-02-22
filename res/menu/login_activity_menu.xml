@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/loginMenu"
+        android:orderInCategory="100"
+        android:title="@string/menu_login"/>
+    <item
+        android:id="@+id/registerMenu"
+        android:orderInCategory="100"
+        android:title="@string/menu_register"/>
+
+</menu>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- account login activity -->
+    <string name="menu_login">登錄</string>
+    <string name="menu_register">註冊</string>
+
+</resources>

@@ -1,8 +1,11 @@
 <resources>
 
-    <string name="app_name">Walkwork</string>
-    <string name="hello_world">Hello world!</string>
-    <string name="menu_settings">Settings</string>
-    <string name="title_activity_login">LoginActivity</string>
+    <!-- walkwork project -->
+    <string name="app_name" translatable="false">Walkwork</string>
+
+    <!-- account login activity -->
+    <string name="title_activity_login" translatable="false">LoginActivity</string>
+    <string name="menu_login">Login</string>
+    <string name="menu_register">Register</string>
 
 </resources>
