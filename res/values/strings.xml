@@ -1,11 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
 
     <!-- walkwork project -->
     <string name="app_name" translatable="false">Walkwork</string>
 
-    <!-- account login activity -->
-    <string name="title_activity_login" translatable="false">LoginActivity</string>
+    <!-- account setting activity -->
+    <string name="title_activity_account_setting" translatable="false">AccountSettingActivity</string>
     <string name="menu_login">Login</string>
     <string name="menu_register">Register</string>
+
+    <!-- about activity -->
+    <string name="title_activity_about" translantable="false">AboutActivity</string>
+    <string name="product_small_icon_content_description" translatable="false">application small icon</string>
 
 </resources>
