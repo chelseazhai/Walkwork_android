@@ -22,7 +22,7 @@ public class WalkworkAppLaunchActivity extends AppLaunchActivity {
 	}
 
 	@Override
-	public void didFinishLaunching() {
+	public boolean didFinishLaunching() {
 		try {
 			// sleep 3 seconds
 			Log.d("@", "I'm sleeping...");
@@ -32,6 +32,8 @@ public class WalkworkAppLaunchActivity extends AppLaunchActivity {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
+
+		return false;
 	}
 
 }
